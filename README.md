@@ -46,8 +46,8 @@
 
 - Email:ahmedzia51345@gmail.com
 - LinkedIn:linkedin.com/in/ahmed-zia-971389359
-- Portfolio:ahmeddev-portfolio.infinityfreeapp.com/
-- GitHub:github.com/Ahmed-Ziaa
+- Portfolio:ahmeddev-portfolio.infinityfreeapp.com
+- GitHub: github.com/Ahmed-Ziaa
 
 ---
 
