@@ -1,10 +1,10 @@
 
 <div align="center">
 
-# Hi, I'm Muhammad Saad Bin Khalid 👋
+# Hi, I'm Muhammad Ahmed Zia 👋
 
-🎓 **CSIT Student at NED University of Engineering & Technology**  
-💻 **Full Stack MERN Developer | AI Enthusiast**  
+🎓 **ACCPI Student at Aptech Learning Institute**  
+💻 **Full Stack Developer | AI Enthusiast**  
 📍 **Based in Karachi, Pakistan | Open to onsite + remote opportunities**
 
 </div>
@@ -13,11 +13,11 @@
 
 ## 🚀 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, C/C++, Python
-- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN, Bootstrap, Framer Motion, Redux
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools & Platforms:** Git & GitHub, Vercel, Render, Figma
+- **Languages:** HTML, CSS, JavaScript, PHP.
+- **Frontend:** React.js, Angular, Bootstrap, CSS 5.  
+- **Backend:** Node.js, Express.js, PHP, Asp.net core. 
+- **Database:** MongoDB, MySQL, SQl Server. 
+- **Tools & Platforms:** Git & GitHub, Vercel.
 
 ---
 
@@ -44,10 +44,10 @@
 
 ## 📫 Contact Me
 
-- **Email:** [saadbinkhalid1895@gmail.com](mailto:saadbinkhalid1895@gmail.com)
-- **LinkedIn:** [linkedin.com/in/saad-bin-khalid-b077b8243](https://linkedin.com/in/saad-bin-khalid-b077b8243)
-- **Portfolio:** [saaddev-portfolio.vercel.app](https://saaddev-portfolio.vercel.app)
-- **GitHub:** [github.com/Saad0095](https://github.com/Saad0095)
+- Email:ahmedzia51345@gmail.com
+- LinkedIn:linkedin.com/in/ahmed-zia-971389359
+- Portfolio:ahmeddev-portfolio.infinityfreeapp.com/
+- GitHub:github.com/Ahmed-Ziaa
 
 ---
 
