@@ -1,73 +1,27 @@
-#                                         Hi, I'm Your Name 👋
 
-🎓 CS Student | Full Stack Developer
+Hi, I'm Muhammad Saad Bin Khalid 👋
+🎓 CSIT Student at NED University of Engineering & Technology
+💻 Full Stack MERN Developer | AI Enthusiast
+📍 Based in Karachi, Pakistan | Open to onsite + remote opportunities
 
-📍 Based in City, Country
-
-💼 Open to internships & remote opportunities
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Vercel
-- Figma
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Backend Development
-- AI & Machine Learning Basics
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce App
-- React + Node.js + MongoDB
-- Authentication, Cart, Payments
-
-### 🎬 Video Streaming App
-- React + Firebase
-- Video Upload & Playback
-
-### 💼 Job Portal
-- React + Express + MongoDB
-- Role-based Authentication
-
----
-
-## 📫 Contact Me
-
-- Email: yourmail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-
----
-
-⚡ Passionate about building scalable web applications!
+🚀 Tech Stack
+Languages: HTML, CSS, JavaScript, TypeScript, C/C++, Python
+Frontend: React.js, Next.js, Tailwind CSS, ShadCn, Bootstrap, Framer Motion, Redux
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools & Platforms: Git & GitHub, Vercel, Render, Figma
+🧠 Currently Learning
+Advanced Backend Development
+Exploring AI & Machine Learning basics
+📌 Featured Projects
+Leaders Tax Collection CRM (MERN, Full Stack) → Role-based dashboards (Admin, Karachi Agent, Dubai Agent), leads management, authentication, notifications (in-app), file uploads, clean UI.
+Leadsrift Website (React + Tailwind + Framer Motion) → Animated agency landing page with React, Framer Motion, and Tailwind CSS featuring smooth transitions, modern UI, and performance optimization.
+UniConnect (React + Tailwind) → Student Admission Portal with role-based authentication & dashboards.
+VidStream (React + Rapid API) → YouTube-like app with video search & playback.
+Job Portal (React + Tailwind + React i18next) → Multi-language job listing platform.
+📫 Contact Me
+Email: saadbinkhalid1895@gmail.com
+LinkedIn: linkedin.com/in/saad-bin-khalid-b077b8243
+Portfolio: saaddev-portfolio.vercel.app
+GitHub: github.com/Saad0095
+⚡ Passionate about building clean, scalable apps & growing as a Full Stack Developer!
