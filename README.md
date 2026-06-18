@@ -30,15 +30,15 @@
 
 ## 📌 Featured Projects
 
-- **Leaders Tax Collection CRM (MERN, Full Stack)** → Role-based dashboards (Admin, Karachi Agent, Dubai Agent), leads management, authentication, in-app notifications, file uploads, and a clean UI.
+Spice & Sizzle (Angular, Frontend) → A modern food website featuring a vibrant user interface, responsive design, and smooth user experience built with Angular.
 
-- **Leadsrift Website (React + Tailwind + Framer Motion)** → Animated agency landing page featuring smooth transitions, modern UI, and performance optimization.
+Real Estate Property Management (JavaScript, Frontend) → Property management platform with a clean interface for showcasing and managing real estate listings.
 
-- **UniConnect (React + Tailwind)** → Student Admission Portal with role-based authentication and dashboards.
+Testing Management System (PHP, MySQL) → A PHP-based testing management system developed using XAMPP and MySQL for organizing and managing assessments efficiently.
 
-- **VidStream (React + Rapid API)** → YouTube-like app with video search and playback.
+Hotel Management System (JavaScript, Full Stack) → Hotel booking and management application designed to streamline reservations and improve user experience.
 
-- **Job Portal (React + Tailwind + React i18next)** → Multi-language job listing platform.
+Traveling Website (Bootstrap, PHP, MySQL) → Responsive travel website with a PHP backend and MySQL database integration for dynamic content management.
 
 ---
 
