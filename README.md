@@ -1,73 +1,69 @@
-# Hi, I'm Your Ahmed Zia 👋
+```html
+<div align="center">
 
-🎓 CS Student | Full Stack Developer
+# Hi, I'm Muhammad Saad Bin Khalid 👋
 
-📍 Based in City, Country
+🎓 **CSIT Student at NED University of Engineering & Technology** <br>
+💻 **Full Stack MERN Developer | AI Enthusiast** <br>
+📍 **Based in Karachi, Pakistan | Open to onsite + remote opportunities**
 
-💼 Open to internships & remote opportunities
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Vercel
-- Figma
+- **Languages:** HTML, CSS, JavaScript, TypeScript, C/C++, Python
+- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN, Bootstrap, Framer Motion, Redux
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Platforms:** Git & GitHub, Vercel, Render, Figma
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 Currently Learning
 
 - Advanced Backend Development
-- AI & Machine Learning Basics
+- Exploring AI & Machine Learning Basics
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce App
-- React + Node.js + MongoDB
-- Authentication, Cart, Payments
+### 🔹 Leaders Tax Collection CRM (MERN, Full Stack)
 
-### 🎬 Video Streaming App
-- React + Firebase
-- Video Upload & Playback
+Role-based dashboards (Admin, Karachi Agent, Dubai Agent), leads management, authentication, in-app notifications, file uploads, and a clean modern UI.
 
-### 💼 Job Portal
-- React + Express + MongoDB
-- Role-based Authentication
+### 🔹 Leadsrift Website (React + Tailwind + Framer Motion)
+
+Animated agency landing page featuring smooth transitions, modern UI, and performance optimization.
+
+### 🔹 UniConnect (React + Tailwind)
+
+Student Admission Portal with role-based authentication and dashboards.
+
+### 🔹 VidStream (React + Rapid API)
+
+YouTube-like app with video search and playback functionality.
+
+### 🔹 Job Portal (React + Tailwind + React i18next)
+
+Multi-language job listing platform.
 
 ---
 
 ## 📫 Contact Me
 
-- Email: ahmedzia51345@gmail.com
-- LinkedIn:https://www.linkedin.com/in/ahmed-zia-971389359/
-- Portfolio: https://ahmeddev-portfolio.infinityfreeapp.com/
+- 📧 **Email:** [saadbinkhalid1895@gmail.com](mailto:saadbinkhalid1895@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/saad-bin-khalid-b077b8243](https://linkedin.com/in/saad-bin-khalid-b077b8243)
+- 🌐 **Portfolio:** [saaddev-portfolio.vercel.app](https://saaddev-portfolio.vercel.app)
+- 🐙 **GitHub:** [github.com/Saad0095](https://github.com/Saad0095)
 
 ---
 
-⚡ Passionate about building scalable web applications!
+<div align="center">
+
+⚡ *Passionate about building clean, scalable apps & growing as a Full Stack Developer!*
+
+</div>
+```
