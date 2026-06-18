@@ -44,11 +44,10 @@
 
 ## 📫 Contact Me
 
-- Email:ahmedzia51345@gmail.com
-- LinkedIn:linkedin.com/in/ahmed-zia-971389359
-- Portfolio:ahmeddev-portfolio.infinityfreeapp.com
-- GitHub: github.com/Ahmed-Ziaa
-
+- 📧 **Email:** [ahmedzia51345@gmail.com](mailto:ahmedzia51345@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ahmed-zia-971389359](https://www.linkedin.com/in/ahmed-zia-971389359) 
+- 🌐 **Portfolio:** [ahmeddev-portfolio.infinityfreeapp.com](https://ahmeddev-portfolio.infinityfreeapp.com) 
+- 🐙 **GitHub:** [github.com/Ahmed-Ziaa](https://github.com/Ahmed-Ziaa)
 ---
 
 <div align="center">
