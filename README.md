@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Your Ahmed Zia 👋
 
-<!--
-**Ahmed-Ziaa/Ahmed-Ziaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | Full Stack Developer
 
-Here are some ideas to get you started:
+📍 Based in City, Country
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Open to internships & remote opportunities
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Python
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- Figma
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Backend Development
+- AI & Machine Learning Basics
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce App
+- React + Node.js + MongoDB
+- Authentication, Cart, Payments
+
+### 🎬 Video Streaming App
+- React + Firebase
+- Video Upload & Playback
+
+### 💼 Job Portal
+- React + Express + MongoDB
+- Role-based Authentication
+
+---
+
+## 📫 Contact Me
+
+- Email: ahmedzia51345@gmail.com
+- LinkedIn:https://www.linkedin.com/in/ahmed-zia-971389359/
+- Portfolio: https://ahmeddev-portfolio.infinityfreeapp.com/
+
+---
+
+⚡ Passionate about building scalable web applications!
